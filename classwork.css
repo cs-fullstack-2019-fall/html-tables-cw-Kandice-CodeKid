@@ -1,0 +1,24 @@
+#table1{
+    width: 75%;
+    /*border: black solid 4px;*/
+}
+td{
+    border: black solid 2px;
+    text-align: center;
+
+}
+caption{
+    font-weight: bold;
+    /*text-align: right;*/
+}
+
+#top1{
+   font-weight: bold;
+}
+
+#table2{
+    width: 75%;
+}
+tr:nth-child(odd) {
+    background-color: lightblue;
+}
